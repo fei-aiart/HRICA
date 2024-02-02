@@ -1,6 +1,11 @@
 # HRICA
 [ICRA'24] Human-Robot Interactive Creation of Artistic Portrait Drawings
 
+[![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/fei-aiart/HRICA/)
+[![Paper](https://img.shields.io/badge/label-b31b1b.svg)]()
+[![ICRA](https://img.shields.io/badge/2024-blue)]()
+[![Page Views Count](https://badges.toozhao.com/badges/01HK9CDZTS7T8NVHKHGJB3QZSZ/green.svg)](https://badges.toozhao.com/stats/01HK9CDZTS7T8NVHKHGJB3QZSZ "Get your own page views count badge on badges.toozhao.com")
+
 人机协同创作艺术画像：
 - 1 个新的数据集 CelebLine：利用 AiSketcher + Simplify 将 CelebAMask-HQ 转换为新的线条画数据集
 - 1 个新的画像补全算法 GAPDI：Mask-Free 和 结构感知的图像补全算法
