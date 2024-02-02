@@ -23,6 +23,16 @@ The University of Technology, Sydney (悉尼科技大学); The University of Syd
 Institute of Software, Chinese Academy of Sciences (中科院软件所); University of Chinese Academy of Sciences Beijing/Nanjing/Hangzhou (中国科学院大学) and Nanjing Institute of Software Technology (南京软件研究院). 
 
 ## Abstract
-In this paper, we present a novel system for *Human-Robot Interactive Creation of Artworks* (HRICA). Different from previous robot painters, HRICA allows a human user and a robot to alternately draw strokes on a canvas, to collaboratively create a portrait drawing through frequent interactions. The key is to enable the robot to understand human intentions, during the interactive creation process.We here formulate this as a mask-free image inpainting problem, and propose a novel method to estimate the complete version of a portrait drawing, after the human user has drawn some initial strokes. In this way, the robot can select some complementary strokes and draw them on the canvas. To train and evaluate our inpainting method, we construct a novel large-scale portrait drawing dataset, CelebLine, which composes of high-quality portrait line-drawings, with dense labels of both 2D semantic parsing masks and 3D depth maps. Finally, we develop a human-robot interactive drawing system with low-cost hardware, user-friendly interface, and interesting creation experience. Experiments show that our robot can stably cooperate with human users to create diverse styles of portrait drawings. In addition, our portrait drawing inpainting method significantly outperforms previous advanced methods. We will release the code and dataset after peer review.
+In this paper, we present a novel system for *Human-Robot Interactive Creation of Artworks* (HRICA). Different from previous robot painters, HRICA allows a human user and a robot to alternately draw strokes on a canvas, to collaboratively create a portrait drawing through frequent interactions. The key is to enable the robot to understand human intentions, during the interactive creation process.We here formulate this as a mask-free image inpainting problem, and propose a novel method to estimate the complete version of a portrait drawing, after the human user has drawn some initial strokes. In this way, the robot can select some complementary strokes and draw them on the canvas. To train and evaluate our inpainting method, we construct a novel large-scale portrait drawing dataset, CelebLine, which composes of high-quality portrait line-drawings, with dense labels of both 2D semantic parsing masks and 3D depth maps. Finally, we develop a human-robot interactive drawing system with low-cost hardware, user-friendly interface, and interesting creation experience. Experiments show that our robot can stably cooperate with human users to create diverse styles of portrait drawings. In addition, our portrait drawing inpainting method significantly outperforms previous advanced methods. The code and dataset have been released at: https://github.com/fei-aiart/HRICA.
+
+## Pipeline
+
+### System: HRICA
+![HRICA](./HRICA.jpg)
+
+### Method: GAPDI 
+![GAPDI](./GAPDI.jpg)
 
 
+## Results
+![Results_HRICA](./results_HRICA.jpg)
