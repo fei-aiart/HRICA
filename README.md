@@ -44,3 +44,21 @@ Our main contributions are summarized as follows:
 
 ## Results
 ![Results_HRICA](./results_HRICA.jpg)
+
+![Results_inpainting](./results_inpainting.png)
+
+
+## Citation
+```bib
+@inproceedings{hrica_icra2024,
+  title={Human-Robot Interactive Creation of Artistic Portrait Drawings},
+  author={Fei, Gao and Lingna, Dai and Jingjie, Zhu and Mei, Du and Yiyuan, Zhang and Maoying, Qiao and Chenghao, Xia and Nannan, Wang and Peng, Li},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}
+
+``` 
+
+## Acknowledgement
