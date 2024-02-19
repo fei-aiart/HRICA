@@ -135,4 +135,5 @@ Our main contributions are summarized as follows:
 
 ## Acknowledgement
 
-Our code is inspired by [pix2pixHD](https://github.com/NVIDIA/pix2pixHD).
+Our code is inspired by [pix2pixHD](https://github.com/NVIDIA/pix2pixHD), [CA-GAN](https://github.com/fei-aiart/ca-gan), and [GENRE](https://github.com/fei-aiart/genre).
+
