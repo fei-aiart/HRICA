@@ -13,7 +13,7 @@
 
 ## Paper Information
 
-Fei Gao, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*，
+**Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*，
 Human-Robot Interactive Creation of Artistic Portrait Drawings, 
 2024 IEEE International Conference on Robotics and Automation (ICRA), accepted, May13-17, 2024, Yokohama, Japan. 
 (\* Corresponding Author)
