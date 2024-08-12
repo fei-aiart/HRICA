@@ -17,6 +17,7 @@
 Human-Robot Interactive Creation of Artistic Portrait Drawings, 
 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. 
 (\* Corresponding Author)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10611451) ~ [[project]](https://github.com/fei-aiart/HRICA)
 
 ## Abstract
 
